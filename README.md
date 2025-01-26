@@ -45,7 +45,7 @@ A Solidity-based project implementing a dynamic NFT that reflects the owner's mo
 ## Quickstart
 
 ```
-git clone https://github.com/Iammrgemini/BasicNft-MoodNft.git
+git clone https://github.com/Iammrgemini/BasicNft-MoodNft
 cd foundry-nft-cu
 forge install
 forge build
